@@ -1,0 +1,2 @@
+My solution is O(n) in space and O(n) in time.
+There were better solutions such as reversing it immediately, and also single pointer in place, which is just check if next node is greater than 4, then automatically add the carry on which gives O(1) space.
