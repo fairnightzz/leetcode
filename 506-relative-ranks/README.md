@@ -1,0 +1,2 @@
+My solution is O(n) in space and O(nlogn) in time.
+There was one unique solution that involved direct addressing, which would give space of O(m) and time of O(m + n) if you made an array the size of the largest number.
