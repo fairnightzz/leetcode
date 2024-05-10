@@ -1,0 +1,2 @@
+Could have used bisect left, but I wanted to refresh my memory on binary search.
+One notable thing is that after sorting, you can also use two pointer which is an interesting hack. Same time complexity though.
