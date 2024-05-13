@@ -1,0 +1,1 @@
+This was simple, but an interesting thing is that this is just max pooling for CNNs.
