@@ -1,0 +1,1 @@
+DFS with backtracking to get maximum gold, did not use BFS because you would have to store more info.
