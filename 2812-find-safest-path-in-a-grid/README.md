@@ -1,0 +1,1 @@
+This one was quite cool, I used BFS to map out the furthest paths, and then used dijkstra to get the maximum safest path.
