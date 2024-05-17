@@ -1,0 +1,1 @@
+This felt like an easy, it was a simple post order traversal through the nodes.
