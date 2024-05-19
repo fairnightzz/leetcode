@@ -1,0 +1,2 @@
+Solution was a bit tricky to figure out, the key is to realize that you can determine the moves by checking 
+how many coins are missing/extra at every node which can determine how many moves are needed.
